@@ -231,8 +231,7 @@ github.com/iij/doapi v0.0.0-20190504054126-0bbf12d6d7df/go.mod h1:QMZY7/J/KSQEhK
 github.com/imdario/mergo v0.3.9 h1:UauaLniWCFHWd+Jp9oCEkTBj8VO/9DKg3PV3VCNMDIg=
 github.com/imdario/mergo v0.3.9/go.mod h1:2EnlNZ0deacrJVfApfmtdGgDfMuh/nq6Ok1EcJh5FfA=
 github.com/infobloxopen/atlas-app-toolkit v0.0.0-20180810144038-3237ef051031/go.mod h1:DeDerruKrelNyHNhpOsjMzOJb0Qy97CzA5qsloKrZnk=
-github.com/infobloxopen/atlas-app-toolkit v0.21.1 h1:9lEIW8kg6/U2TtvjGvoW18vVfZST2I7rF6msmYWLDwA=
-github.com/infobloxopen/atlas-app-toolkit v0.21.1/go.mod h1:DeDerruKrelNyHNhpOsjMzOJb0Qy97CzA5qsloKrZnk=
+github.com/infobloxopen/atlas-app-toolkit v0.22.1/go.mod h1:DeDerruKrelNyHNhpOsjMzOJb0Qy97CzA5qsloKrZnk=
 github.com/infobloxopen/go-trees v0.0.0-20180608122459-a1e500cde93c/go.mod h1:PcNJqIlcX/dj3DTG/+QQnRvSgTMG6CLpRMjWcv4+J6w=
 github.com/infobloxopen/protoc-gen-gorm v0.20.0 h1:cUf4bmb7rNfc25rzMvHVXy0XN0Gb6CYc7BO16YozXYQ=
 github.com/infobloxopen/protoc-gen-gorm v0.20.0/go.mod h1:1+1XK/3Cavbnybuye3FXKqIWZhUGamuxV7Ka+a22czk=
